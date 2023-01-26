@@ -4,7 +4,9 @@
     "target": "es5",
     "sourceMap": true,
     "outDir": "out",
-    "rootDir": "hoge"
+    "rootDir": "hoge",
+    "declaration": true,
+    "declarationMap": true
   },
   "exclude": [
     "node_modules"
