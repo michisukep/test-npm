@@ -1,11 +1,14 @@
 {
   "name": "test-michisuke",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "out/index.js",
   "types": "out/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin" : {
+    "hogehoge": "index.js"
   },
   "keywords": [],
   "author": "",
