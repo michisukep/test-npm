@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const myOriginalLib = (a, b) => {
     return console.log(a+b);
 }
